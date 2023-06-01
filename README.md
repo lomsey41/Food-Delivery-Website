@@ -21,6 +21,10 @@ Including the jquery and bootstrap javascripts
 
 
  ```<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>```
+ 
+ 
+ PREVIEW:
+ 
 
 <img src="./ss1.png" alt="Image" />
 <img src="./ss2.png" alt="Image" />
