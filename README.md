@@ -27,6 +27,7 @@ Including the jquery and bootstrap javascripts
 Documentation/Demo
 
 You can access a live demo of the Food Delivery Website here. 
+https://lomsey41.github.io/Food-Delivery-Website/
  
 FOOD DELIVERY WEBSITE PICTURE PREVIEW:
  
