@@ -141,6 +141,8 @@ Conclusion
 
 The Food Delivery Website aims to revolutionize the way users order food online. By providing an intuitive interface, extensive restaurant options, and seamless ordering process, it offers a delightful experience to users. Feel free to explore the live demo or contribute to its development to make it even better!
 
+License : MIT
+
 
 
 Author: Salome Bassey<Github.com/lomsey41>/twitter<lomsey41>
