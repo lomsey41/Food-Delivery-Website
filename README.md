@@ -124,6 +124,8 @@ The Food Delivery Website aims to revolutionize the way users order food online.
 
 Author: Salome Bassey<Github.com/lomsey41>/twitter<lomsey41>
 Linkedin: http://www.linkedin.com/in/salome-bassey
+ 
+Blog post : https://lomsey41.hashnode.dev/food-delivery-website
 
 
 Appreciation to: Nathaniel Emenike
