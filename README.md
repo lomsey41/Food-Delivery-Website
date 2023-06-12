@@ -115,25 +115,9 @@ In the future, the Food Delivery Website can be further enhanced with the follow
     Integration with restaurant management systems for automatic order processing.
     Mobile application development for both iOS and Android platforms.
     
-    TABLE OF CONTENTS
-Purpose
-The drive behind building a food delivery website came due to a growing demands for food delivery services, driven by busy lifestyles and convenience-seeking customer. Hence helping to alleviate the stress of discerning busy individuals to balance their eating habit and stay healthy.
 
-Moreover, it will provides a convenient and user-friendly interface for users to explore different food options, customize their orders, make payments and get their orders delivered faster to their doorsteps. behind building a food delivery website
+MY STORY
 
-As the Author of this project : Salome Bassey. I worked alone as a team and this is a portfolio project for Holberton school.
-
-Description
-The Food Delivery Website is a static website that allows users to browse and order food from various restaurants. It provides a convenient and user-friendly interface for users to explore different food options, customize their orders, and make payments. This website is designed to streamline the process of ordering food online and provide a delightful experience for users.
-
-Website Features
-User Registration and Authentication: Allow users to create accounts and log in using their email, social media accounts, or mobile numbers.
-
-Online Menu: Present a user-friendly menu that showcases the variety of dishes and beverages offered by each restaurant. Include item descriptions, prices, and customizable options if applicable.
-
-Ordering System: Allow users to add items to their cart, customize their orders, and specify delivery or pickup preferences (e.g., delivery address, date, and time). Implement a seamless checkout process.
-
-My Story
 I'm a passionate food enthusiast, when i, noticed a growing demand for convenient meal options. Inspired by this, I decided to create a food delivery website that connect busy individuals with their favorite local restaurants. The website quickly gained popularity, delivering mouthwatering meals straight to people's homes, making dining a hassle-free and delightful experience
 
 
@@ -143,11 +127,10 @@ The Food Delivery Website aims to revolutionize the way users order food online.
 
 License : MIT
 
-
-
-Author: Salome Bassey<Github.com/lomsey41>/twitter<lomsey41>
+Author: Salome Bassey
+Github: https://github.com/lomsey41
+Twitter: http://www.twitter.com/lomsey41
 Linkedin: http://www.linkedin.com/in/salome-bassey
- 
 Blog post : https://lomsey41.hashnode.dev/food-delivery-website
 
 
