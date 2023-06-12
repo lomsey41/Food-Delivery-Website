@@ -118,7 +118,7 @@ In the future, the Food Delivery Website can be further enhanced with the follow
 
 MY STORY
 
-I'm a passionate food enthusiast, when i, noticed a growing demand for convenient meal options. Inspired by this, I decided to create a food delivery website that connect busy individuals with their favorite local restaurants. The website quickly gained popularity, delivering mouthwatering meals straight to people's homes, making dining a hassle-free and delightful experience
+I'm a passionate food enthusiast, when i, noticed a growing demand for convenient meal options. Inspired by this, I decided to create a food delivery website that connect busy individuals with their favorite local restaurants. The website will quickly gained popularity, delivering mouthwatering meals straight to people's homes, making dining a hassle-free and delightful experience
 
 
 Conclusion
@@ -131,6 +131,7 @@ Author: Salome Bassey
 Github: https://github.com/lomsey41
 Twitter: http://www.twitter.com/lomsey41
 Linkedin: http://www.linkedin.com/in/salome-bassey
+
 Blog post : https://lomsey41.hashnode.dev/food-delivery-website
 
 
